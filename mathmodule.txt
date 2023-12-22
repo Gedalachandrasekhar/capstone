@@ -1,0 +1,6 @@
+a=10
+b=20
+a=e
+a=b
+b=e
+print(a,b)
